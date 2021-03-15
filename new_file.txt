@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 tam add noi dung
 linh add noi dung
 loc add noi dung
 duc add noi dung
 abc
+=======
+file nay ok roi
+>>>>>>> 11086856ebe9fc63454df7d790dd3cb38678789e
